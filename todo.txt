@@ -1,0 +1,5 @@
+Finish Project 3: To-Do List Manager
+Implement the 'load_tasks' function
+Implement the 'save_tasks' function
+Buy groceries (milk, bread)
+2
